@@ -124,7 +124,9 @@
     justify-content: space-between;
     margin-top: 40px;
     align-items: end;
+    gap: 10px;
 }
+
 .image-1 img{
    width: 230px; 
   height: 330px;  

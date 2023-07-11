@@ -213,6 +213,7 @@
     display: flex;
     justify-content: space-between;
     margin-top: 45px;
+    gap: 10px;
 }
 /* instagram section end */
 /* subscribe section start */

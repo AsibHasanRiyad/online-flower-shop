@@ -174,6 +174,7 @@
     margin-top: 20px;
 }
 /* delivery section end */
+/* sign up section start */
 .signup-section{
     display: flex;
     align-items: center;
@@ -195,4 +196,72 @@
 .signup-description{
     margin-top: 10px;
     margin-bottom: 15px;
+}
+/* sign up section end */
+/* instagram section start */
+.instagram-section{
+    margin: 100px 150px;
+    text-align: center;
+}
+.insta-photo img{
+    width: 268px;
+    height: 310px;
+}
+.insta-photo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+/* instagram section end */
+/* subscribe section start */
+.subscribe-section{
+    text-align: center;
+    background-image: url("../images/rectangle9.png");
+    background-size: cover;
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    margin: 100px 150px;
+    padding: 100px 200px;
+}
+.subscribe-input{
+    width: 500px;
+    height: 47px;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border: none;
+    padding: 2px 30px;
+    margin-right: 7px;
+}
+.subscribe-description{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+/* subscribe section start */
+
+/* footer section start */
+.footer-section{
+    background: #111010;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    padding: 120px 150px;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+.credit-section{
+    color: rgba(255, 255, 255, 0.40);
+
 }
